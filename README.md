@@ -10,7 +10,7 @@ I ❤ Open Source.
 - 💬 Ask me how to make your repository look better
 
 
-<a class="github-button" href="https://github.com/Evanto" data-size="large" data-show-count="true" aria-label="Follow @Evanto on GitHub">Follow @Evanto</a>
+
  
 
 🦄
