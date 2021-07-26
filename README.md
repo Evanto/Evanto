@@ -11,6 +11,6 @@ I ❤ Open Source.
 
 
 <a class="github-button" href="https://github.com/Evanto" data-size="large" data-show-count="true" aria-label="Follow @Evanto on GitHub">Follow @Evanto</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+ 
 
 🦄
